@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Материалы для курса vectozavr.ru
 
 Сам курс: [vectozavr.ru](https://vectozavr.ru)
@@ -31,3 +32,7 @@
 Общая структура проекта:
 ![Project demonstration](img/structure.png)
 
+=======
+# GameEngine
+My 3D game engine
+>>>>>>> 5f36d8baa03ec79699c42e4b024bcc385cdee224
