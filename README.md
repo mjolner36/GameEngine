@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Материалы для курса vectozavr.ru
-
-Сам курс: [vectozavr.ru](https://vectozavr.ru)
-
 [Инструкция по сборке и запуску](https://vectozavr.ru/lesson?id_article=0)
 
 ## Задания
